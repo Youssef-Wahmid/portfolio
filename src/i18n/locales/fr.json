@@ -1,0 +1,142 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "expertise": "Expertise",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Salut, je suis",
+    "name": "Youssef Wahmid",
+    "title": "Développeur Full Stack",
+    "description": "Développeur web full stack passionné par les technologies web et l'intelligence artificielle. Je combine créativité et précision pour livrer des solutions innovantes. Curieux et toujours en apprentissage",
+    "viewWork": "Voir mon travail",
+    "getInTouch": "Entrer en contact",
+    "scrollDown": "Faire défiler vers le bas"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "Je suis un développeur passionné qui aime créer des expériences numériques qui font la différence.",
+    "whoIAm": "Qui je suis",
+    "description1": "Je suis un développeur full stack motivé avec une passion pour créer des applications web innovantes et évolutives. Un résolveur de problèmes curieux avec un diplôme en Informatique et Mathématiques Appliquées, je suis toujours désireux d'apprendre et de relever de nouveaux défis. Je prospère dans les environnements d'équipe et je suis motivé à améliorer continuellement mes compétences pour contribuer positivement et stimuler la croissance dans chaque projet.",
+    "description2": "Mon parcours dans le développement web a commencé par la curiosité et a évolué vers une quête professionnelle d'excellence. Je crois en l'apprentissage continu et en rester à jour avec les dernières tendances et technologies de l'industrie.",
+    "yearsExperience": "Années d'expérience",
+    "projectsCompleted": "Projets terminés",
+    "clientSatisfaction": "Satisfaction client",
+    "features": {
+      "cleanCode": {
+        "title": "Code propre",
+        "description": "Écrire du code maintenable et évolutif qui suit les meilleures pratiques."
+      },
+      "creativeDesign": {
+        "title": "Design créatif",
+        "description": "Créer des interfaces utilisateur intuitives et belles qui améliorent l'expérience utilisateur."
+      },
+      "performance": {
+        "title": "Performance",
+        "description": "Optimiser les applications pour la vitesse et l'efficacité sur tous les appareils."
+      },
+      "userFocused": {
+        "title": "Centré utilisateur",
+        "description": "Construire des solutions qui résolvent de vrais problèmes pour de vrais utilisateurs."
+      }
+    }
+  },
+  "skills": {
+    "title": "Compétences et Technologies",
+    "subtitle": "Voici les technologies et outils que j'utilise pour donner vie aux idées.",
+    "certifications": "Certifications",
+    "continuousLearning": "Apprentissage continu",
+    "learningDescription": "J'élargis constamment mon ensemble de compétences et reste à jour avec les dernières technologies. Mon approche combine l'expertise technique avec la résolution créative de problèmes pour livrer des résultats exceptionnels.",
+    "learningAreas": {
+      "machineLearning": "Apprentissage automatique",
+      "cloudComputing": "Informatique en nuage",
+      "devOps": "DevOps",
+      "mobileDevelopment": "Développement mobile"
+    }
+  },
+  "expertise": {
+    "title": "Expertise",
+    "subtitle": "Outils et technologies que j'utilise pour développer des solutions numériques.",
+    "frontend": {
+      "title": "💻 Développement Frontend",
+      "description": "Création d'interfaces utilisateur réactives et interactives avec React et Next.js."
+    },
+    "backend": {
+      "title": "⚙️ Développement Backend",
+      "description": "Construction d'applications côté serveur robustes et d'API utilisant Node.js, Express et MongoDB."
+    },
+    "fullstack": {
+      "title": "🌐 Expertise Full-Stack",
+      "description": "Intégration transparente du frontend et du backend pour des solutions évolutives et efficaces."
+    },
+    "database": {
+      "title": "🗄️ Gestion de Base de Données",
+      "description": "Conception et gestion de bases de données avec SQL et NoSQL pour des performances optimales."
+    },
+    "versionControl": {
+      "title": "🔧 Contrôle de Version",
+      "description": "Collaboration efficace en utilisant Git et GitHub pour une gestion de projet fluide."
+    },
+    "umlMerise": {
+      "title": "📊 Conception UML Merise",
+      "description": "Conception d'architectures système complètes et de schémas de base de données en utilisant des diagrammes UML et la méthodologie Merise pour une modélisation de données optimale."
+    }
+  },
+  "projects": {
+    "title": "Mes projets",
+    "subtitle": "Voici quelques-uns des projets sur lesquels j'ai travaillé. Chacun représente un défi unique et une expérience d'apprentissage.",
+    "categories": {
+      "all": "Tous les projets",
+      "frontend": "Frontend",
+      "fullstack": "Full Stack"
+    },
+    "items": {
+      "ecommerce": {
+        "title": "Plateforme E-Commerce",
+        "description": "Une solution e-commerce full stack avec React, Node.js et MongoDB. Les fonctionnalités incluent l'authentification utilisateur, la gestion des produits et l'intégration des paiements."
+      },
+      "taskManagement": {
+        "title": "Application de gestion des tâches",
+        "description": "Une application de gestion des tâches collaborative avec des mises à jour en temps réel, des fonctionnalités de glisser-déposer et des fonctionnalités de collaboration d'équipe."
+      },
+      "weatherDashboard": {
+        "title": "Tableau de bord météo",
+        "description": "Une application météo qui affiche les conditions météorologiques actuelles, les prévisions et les cartes interactives en utilisant les API météo."
+      },
+      "portfolioWebsite": {
+        "title": "Site web portfolio",
+        "description": "Un site web portfolio moderne et responsive construit avec React et Framer Motion pour des animations fluides et des interactions."
+      },
+      "blogPlatform": {
+        "title": "Plateforme de blog",
+        "description": "Un système de gestion de contenu pour les blogs avec support Markdown, rôles utilisateur et optimisation SEO."
+      },
+      "landingPage": {
+        "title": "Page d'atterrissage",
+        "description": "Un design de page d'atterrissage moderne avec des animations fluides, une mise en page responsive et des éléments axés sur la conversion."
+      }
+    }
+  },
+  "contact": {
+    "title": "Entrer en contact",
+    "subtitle": "Je suis toujours ouvert à discuter de nouvelles opportunités, de projets intéressants ou simplement de discuter de technologie et de développement.",
+    "letsConnect": "Connectons-nous",
+    "description": "N'hésitez pas à me contacter si vous souhaitez collaborer sur un projet, discuter d'opportunités potentielles ou simplement dire bonjour !",
+    "email": "Email",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "form": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "subject": "Sujet",
+      "message": "Votre message",
+      "sendMessage": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "✅ Message envoyé avec succès ! Je vous répondrai bientôt.",
+      "error": "❌ Échec de l'envoi du message. Veuillez réessayer ou me contacter directement."
+    }
+  }
+}
