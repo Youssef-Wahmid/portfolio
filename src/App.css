@@ -231,6 +231,7 @@ main {
   
   .section-title {
     font-size: 2rem;
+    display: block;
   }
   
   .container {

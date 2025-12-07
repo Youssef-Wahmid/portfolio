@@ -2,6 +2,7 @@
   "navigation": {
     "home": "Accueil",
     "about": "À propos",
+    "resume": "CV",
     "skills": "Compétences",
     "expertise": "Expertise",
     "projects": "Projets",
@@ -85,13 +86,67 @@
       "description": "Conception d'architectures système complètes et de schémas de base de données en utilisant des diagrammes UML et la méthodologie Merise pour une modélisation de données optimale."
     }
   },
+  "resume": {
+    "title": "CV",
+    "subtitle": "Découvrez mon parcours professionnel et mon parcours académique.",
+    "education": {
+      "title": "Formation",
+      "licence": {
+        "title": "Licence Professionnelle",
+        "institution": "Faculté Polydisciplinaire d'El Jadida, Maroc",
+        "years": "2024 ➜ 2025",
+        "description": "Licence Professionnelle en Informatique et Mathématiques Appliquées, option Informatique."
+      },
+      "dts": {
+        "title": "Diplôme de Technicien Spécialisé",
+        "institution": "Cité des Métiers et des Compétences de Laâyoune",
+        "years": "2022 ➜ 2024",
+        "description": "Développement Digital – option Full Stack."
+      },
+      "dut": {
+        "title": "Diplôme Universitaire de Technologie (DUT)",
+        "institution": "École Supérieure de Technologie de Laâyoune",
+        "years": "2020 ➜ 2022",
+        "description": "DUT en Biologie."
+      }
+    },
+    "experience": {
+      "title": "Expérience (Stages & Projets)",
+      "pixwell": {
+        "title": "Développeur Full Stack – Stage PFE",
+        "company": "PIXWELL AGENCY, Laâyoune",
+        "duration": "01/04/2025 ➜ 30/06/2025",
+        "description": "Développement d'une application web de gestion de stock pour un client réel.",
+        "technologies": "Laravel, Sanctum, React, CSS, Tailwind CSS, UML"
+      },
+      "agence": {
+        "title": "Développeur Full Stack – Stage PFE",
+        "company": "Agence Urbaine de Laâyoune",
+        "duration": "01/02/2024 ➜ 29/02/2024",
+        "description": "Conception et développement d'une plateforme web pour la gestion des stagiaires.",
+        "technologies": "UML, MySQL, Git, PHP (Laravel), CSS (Bootstrap), JavaScript"
+      },
+      "pfe": {
+        "title": "Projet de Fin d'Études – CMC Laâyoune",
+        "duration": "01/05/2024 ➜ 10/06/2024",
+        "description": "Développement d'un site web e-commerce complet avec fonctionnalités de gestion et paiement.",
+        "technologies": "PHP (Laravel), MySQL, HTML, CSS (Bootstrap), JavaScript, UML, Git/GitHub"
+      },
+      "inrh": {
+        "title": "Stage PFE (2 mois)",
+        "company": "Institut National de Recherche Halieutique, Laâyoune",
+        "description": "Saisie et analyse de données à l'aide de Microsoft Office. Utilisation d'Excel pour l'organisation et les tableaux croisés dynamiques, et Word pour la rédaction de rapports techniques."
+      }
+    }
+  },
   "projects": {
     "title": "Mes projets",
     "subtitle": "Voici quelques-uns des projets sur lesquels j'ai travaillé. Chacun représente un défi unique et une expérience d'apprentissage.",
     "categories": {
       "all": "Tous les projets",
       "frontend": "Frontend",
-      "fullstack": "Full Stack"
+      "fullstack": "Full Stack",
+      "wordpress": "WordPress"
     },
     "items": {
       "ecommerce": {
@@ -117,6 +172,10 @@
       "landingPage": {
         "title": "Page d'atterrissage",
         "description": "Un design de page d'atterrissage moderne avec des animations fluides, une mise en page responsive et des éléments axés sur la conversion."
+      },
+      "wordpress": {
+        "title": "Blog de Voyage",
+        "description": "Ce blog de voyage a été créé avec WordPress et construit en utilisant l'éditeur Gutenberg pour concevoir des pages propres et dynamiques. Le site organise le contenu à travers des catégories et des destinations personnalisées, facilitant l'exploration des voyages par région ou thème pour les visiteurs. J'ai également intégré divers plugins et un thème flexible pour améliorer les performances, la navigation et l'expérience utilisateur globale. L'objectif du blog est de partager des histoires de voyage inspirantes, des guides et des photos à travers une plateforme bien structurée et moderne."
       }
     }
   },

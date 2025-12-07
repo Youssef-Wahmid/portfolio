@@ -2,6 +2,7 @@
   "navigation": {
     "home": "Home",
     "about": "About",
+    "resume": "Resume",
     "skills": "Skills",
     "expertise": "Expertise",
     "projects": "Projects",
@@ -18,10 +19,10 @@
   },
   "about": {
     "title": "About Me",
-    "subtitle": "I'm a passionate developer who loves creating digital experiences that make a difference.",
+    "subtitle": "Explore my path, discover my skills, and see the projects that inspire my growth.",
     "whoIAm": "Who I Am",
-    "description1": "I am a motivated full-stack developer with a passion for creating innovative and scalable web applications. A curious problem-solver with a degree in Computer Science and Applied Mathematics, I am always eager to learn and take on new challenges. I thrive in team environments and am driven to continuously improve my skills to contribute positively and drive growth in every project.",
-    "description2": "My journey in web development started with curiosity and has evolved into a professional pursuit of excellence. I believe in continuous learning and staying updated with the latest industry trends and technologies.",
+    "description1": "I’m a motivated Full Stack Developer who combines creativity with technical expertise to build innovative and scalable web applications. Passionate about solving complex problems with elegant solutions, I continuously explore new technologies to create meaningful user experiences and drive growth through every project.",
+    "description2": "My journey in web development began with curiosity and grew into a pursuit of excellence. I’m committed to continuous learning and staying current with the latest technologies..",
     "yearsExperience": "Years Experience",
     "projectsCompleted": "Projects Completed",
     "clientSatisfaction": "Client Satisfaction",
@@ -84,15 +85,68 @@
     "title": "📊 UML Merise Design",
     "description": "Designing comprehensive system architectures and database schemas using UML diagrams and Merise methodology for optimal data modeling."
   }
-}
-,
+},
+  "resume": {
+    "title": "Resume",
+    "subtitle": "Discover my professional journey and academic background.",
+    "education": {
+      "title": "Education",
+      "licence": {
+        "title": "Licence Professionnelle",
+        "institution": "Faculté Polydisciplinaire d'El Jadida, Morocco",
+        "years": "2024 ➜ 2025",
+        "description": "Licence Professionnelle en Informatique et Mathématiques Appliquées, option Informatique."
+      },
+      "dts": {
+        "title": "Diplôme de Technicien Spécialisé",
+        "institution": "Cité des Métiers et des Compétences de Laâyoune",
+        "years": "2022 ➜ 2024",
+        "description": "Développement Digital – option Full Stack."
+      },
+      "dut": {
+        "title": "Diplôme Universitaire de Technologie (DUT)",
+        "institution": "École Supérieure de Technologie de Laâyoune",
+        "years": "2020 ➜ 2022",
+        "description": "DUT en Biologie."
+      }
+    },
+    "experience": {
+      "title": "Experience (Internships & Projects)",
+      "pixwell": {
+        "title": "Développeur Full Stack – Stage PFE",
+        "company": "PIXWELL AGENCY, Laâyoune",
+        "duration": "01/04/2025 ➜ 30/06/2025",
+        "description": "Développement d'une application web de gestion de stock pour un client réel.",
+        "technologies": "Laravel, Sanctum, React, CSS, Tailwind CSS, UML"
+      },
+      "agence": {
+        "title": "Développeur Full Stack – Stage PFE",
+        "company": "Agence Urbaine de Laâyoune",
+        "duration": "01/02/2024 ➜ 29/02/2024",
+        "description": "Conception et développement d'une plateforme web pour la gestion des stagiaires.",
+        "technologies": "UML, MySQL, Git, PHP (Laravel), CSS (Bootstrap), JavaScript"
+      },
+      "pfe": {
+        "title": "Projet de Fin d'Études – CMC Laâyoune",
+        "duration": "01/05/2024 ➜ 10/06/2024",
+        "description": "Développement d'un site web e-commerce complet avec fonctionnalités de gestion et paiement.",
+        "technologies": "PHP (Laravel), MySQL, HTML, CSS (Bootstrap), JavaScript, UML, Git/GitHub"
+      },
+      "inrh": {
+        "title": "Stage PFE (2 mois)",
+        "company": "Institut National de Recherche Halieutique, Laâyoune",
+        "description": "Saisie et analyse de données à l'aide de Microsoft Office. Utilisation d'Excel pour l'organisation et les tableaux croisés dynamiques, et Word pour la rédaction de rapports techniques."
+      }
+    }
+  },
   "projects": {
     "title": "My Projects",
     "subtitle": "Here are some of the projects I've worked on. Each one represents a unique challenge and learning experience.",
     "categories": {
       "all": "All Projects",
       "frontend": "Frontend",
-      "fullstack": "Full Stack"
+      "fullstack": "Full Stack",
+      "wordpress": "WordPress"
     },
     "items": {
       "ecommerce": {
@@ -118,6 +172,10 @@
       "landingPage": {
         "title": "Landing Page",
         "description": "A modern landing page design with smooth animations, responsive layout, and conversion-focused elements."
+      },
+      "wordpress": {
+        "title": "Travel Blog",
+        "description": "This travel blog is built with WordPress using the Gutenberg editor to create clean, dynamic pages. Content is organized through categories and custom destinations for easy navigation. With added plugins and a flexible theme, the site offers a smooth, modern experience to share travel stories, guides, and photos."
       }
     }
   },
